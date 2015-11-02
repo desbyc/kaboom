@@ -15,6 +15,32 @@
 		433EC17E1BB6E7F5004BEC55 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 433EC17C1BB6E7F5004BEC55 /* LaunchScreen.storyboard */; };
 		433EC1891BB6E7F5004BEC55 /* KaBoomTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433EC1881BB6E7F5004BEC55 /* KaBoomTests.swift */; };
 		433EC1941BB6E7F5004BEC55 /* KaBoomUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 433EC1931BB6E7F5004BEC55 /* KaBoomUITests.swift */; };
+		433EC1AB1BB6E8AF004BEC55 /* BassDrum909.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1A61BB6E8AF004BEC55 /* BassDrum909.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1AC1BB6E8AF004BEC55 /* Clap909.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1A71BB6E8AF004BEC55 /* Clap909.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1AD1BB6E8AF004BEC55 /* HiHat909.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1A81BB6E8AF004BEC55 /* HiHat909.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1AE1BB6E8AF004BEC55 /* RimShot909.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1A91BB6E8AF004BEC55 /* RimShot909.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1AF1BB6E8AF004BEC55 /* SnareDrum909.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1AA1BB6E8AF004BEC55 /* SnareDrum909.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1B51BB6E8C3004BEC55 /* BassDrum808.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1B01BB6E8C3004BEC55 /* BassDrum808.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1B61BB6E8C3004BEC55 /* Clap808.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1B11BB6E8C3004BEC55 /* Clap808.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1B71BB6E8C3004BEC55 /* HiHat808.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1B21BB6E8C3004BEC55 /* HiHat808.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1B81BB6E8C3004BEC55 /* RimShot808.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1B31BB6E8C3004BEC55 /* RimShot808.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1B91BB6E8C3004BEC55 /* SnareDrum808.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1B41BB6E8C3004BEC55 /* SnareDrum808.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1BF1BB6E8DA004BEC55 /* BassDrum606.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1BA1BB6E8DA004BEC55 /* BassDrum606.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1C01BB6E8DA004BEC55 /* ClosedHiHat606.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1BB1BB6E8DA004BEC55 /* ClosedHiHat606.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1C11BB6E8DA004BEC55 /* HiTom606.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1BC1BB6E8DA004BEC55 /* HiTom606.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1C21BB6E8DA004BEC55 /* OpenHiHat606.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1BD1BB6E8DA004BEC55 /* OpenHiHat606.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1C31BB6E8DA004BEC55 /* SnareDrum606.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1BE1BB6E8DA004BEC55 /* SnareDrum606.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1C91BB6E8EF004BEC55 /* BassDrum78.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1C41BB6E8EF004BEC55 /* BassDrum78.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1CA1BB6E8EF004BEC55 /* Guiro78.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1C51BB6E8EF004BEC55 /* Guiro78.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1CB1BB6E8EF004BEC55 /* HiHat78.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1C61BB6E8EF004BEC55 /* HiHat78.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1CC1BB6E8EF004BEC55 /* RimShot78.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1C71BB6E8EF004BEC55 /* RimShot78.wav */; settings = {ASSET_TAGS = (); }; };
+		433EC1CD1BB6E8EF004BEC55 /* SnareDrum78.wav in Resources */ = {isa = PBXBuildFile; fileRef = 433EC1C81BB6E8EF004BEC55 /* SnareDrum78.wav */; settings = {ASSET_TAGS = (); }; };
+		4363582E1BBDDFB500918021 /* Bass.wav in Resources */ = {isa = PBXBuildFile; fileRef = 4363582D1BBDDFB500918021 /* Bass.wav */; settings = {ASSET_TAGS = (); }; };
+		43A3A2571BC53F8D00FDF98A /* Volume.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43A3A2521BC53F8D00FDF98A /* Volume.jpg */; settings = {ASSET_TAGS = (); }; };
+		43A3A2581BC53F8D00FDF98A /* Panning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43A3A2531BC53F8D00FDF98A /* Panning.jpg */; settings = {ASSET_TAGS = (); }; };
+		43A3A2591BC53F8D00FDF98A /* Reverb.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43A3A2541BC53F8D00FDF98A /* Reverb.jpg */; settings = {ASSET_TAGS = (); }; };
+		43A3A25A1BC53F8D00FDF98A /* Distorsion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43A3A2551BC53F8D00FDF98A /* Distorsion.jpg */; settings = {ASSET_TAGS = (); }; };
+		43A3A25B1BC53F8D00FDF98A /* Delay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 43A3A2561BC53F8D00FDF98A /* Delay.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +75,32 @@
 		433EC18F1BB6E7F5004BEC55 /* KaBoomUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KaBoomUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		433EC1931BB6E7F5004BEC55 /* KaBoomUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaBoomUITests.swift; sourceTree = "<group>"; };
 		433EC1951BB6E7F5004BEC55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		433EC1A61BB6E8AF004BEC55 /* BassDrum909.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BassDrum909.wav; sourceTree = "<group>"; };
+		433EC1A71BB6E8AF004BEC55 /* Clap909.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Clap909.wav; sourceTree = "<group>"; };
+		433EC1A81BB6E8AF004BEC55 /* HiHat909.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HiHat909.wav; sourceTree = "<group>"; };
+		433EC1A91BB6E8AF004BEC55 /* RimShot909.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = RimShot909.wav; sourceTree = "<group>"; };
+		433EC1AA1BB6E8AF004BEC55 /* SnareDrum909.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SnareDrum909.wav; sourceTree = "<group>"; };
+		433EC1B01BB6E8C3004BEC55 /* BassDrum808.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BassDrum808.wav; sourceTree = "<group>"; };
+		433EC1B11BB6E8C3004BEC55 /* Clap808.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Clap808.wav; sourceTree = "<group>"; };
+		433EC1B21BB6E8C3004BEC55 /* HiHat808.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HiHat808.wav; sourceTree = "<group>"; };
+		433EC1B31BB6E8C3004BEC55 /* RimShot808.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = RimShot808.wav; sourceTree = "<group>"; };
+		433EC1B41BB6E8C3004BEC55 /* SnareDrum808.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SnareDrum808.wav; sourceTree = "<group>"; };
+		433EC1BA1BB6E8DA004BEC55 /* BassDrum606.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BassDrum606.wav; sourceTree = "<group>"; };
+		433EC1BB1BB6E8DA004BEC55 /* ClosedHiHat606.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ClosedHiHat606.wav; sourceTree = "<group>"; };
+		433EC1BC1BB6E8DA004BEC55 /* HiTom606.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HiTom606.wav; sourceTree = "<group>"; };
+		433EC1BD1BB6E8DA004BEC55 /* OpenHiHat606.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = OpenHiHat606.wav; sourceTree = "<group>"; };
+		433EC1BE1BB6E8DA004BEC55 /* SnareDrum606.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SnareDrum606.wav; sourceTree = "<group>"; };
+		433EC1C41BB6E8EF004BEC55 /* BassDrum78.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = BassDrum78.wav; sourceTree = "<group>"; };
+		433EC1C51BB6E8EF004BEC55 /* Guiro78.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Guiro78.wav; sourceTree = "<group>"; };
+		433EC1C61BB6E8EF004BEC55 /* HiHat78.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = HiHat78.wav; sourceTree = "<group>"; };
+		433EC1C71BB6E8EF004BEC55 /* RimShot78.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = RimShot78.wav; sourceTree = "<group>"; };
+		433EC1C81BB6E8EF004BEC55 /* SnareDrum78.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SnareDrum78.wav; sourceTree = "<group>"; };
+		4363582D1BBDDFB500918021 /* Bass.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Bass.wav; sourceTree = "<group>"; };
+		43A3A2521BC53F8D00FDF98A /* Volume.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Volume.jpg; sourceTree = "<group>"; };
+		43A3A2531BC53F8D00FDF98A /* Panning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Panning.jpg; sourceTree = "<group>"; };
+		43A3A2541BC53F8D00FDF98A /* Reverb.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Reverb.jpg; sourceTree = "<group>"; };
+		43A3A2551BC53F8D00FDF98A /* Distorsion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Distorsion.jpg; sourceTree = "<group>"; };
+		43A3A2561BC53F8D00FDF98A /* Delay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Delay.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +151,8 @@
 		433EC16F1BB6E7F5004BEC55 /* KaBoom */ = {
 			isa = PBXGroup;
 			children = (
+				43A3A2511BC53F7600FDF98A /* JPGs */,
+				433EC1A11BB6E845004BEC55 /* sounds */,
 				433EC1701BB6E7F5004BEC55 /* AppDelegate.swift */,
 				433EC1721BB6E7F5004BEC55 /* ViewController.swift */,
 				433EC1741BB6E7F5004BEC55 /* Main.storyboard */,
@@ -126,6 +180,86 @@
 				433EC1951BB6E7F5004BEC55 /* Info.plist */,
 			);
 			path = KaBoomUITests;
+			sourceTree = "<group>";
+		};
+		433EC1A11BB6E845004BEC55 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				43702ED61BB7DA9D00ACE55F /* Bass */,
+				433EC1A51BB6E87A004BEC55 /* Cr78 */,
+				433EC1A41BB6E872004BEC55 /* 909 */,
+				433EC1A31BB6E861004BEC55 /* 808 */,
+				433EC1A21BB6E854004BEC55 /* 606 */,
+			);
+			name = sounds;
+			sourceTree = "<group>";
+		};
+		433EC1A21BB6E854004BEC55 /* 606 */ = {
+			isa = PBXGroup;
+			children = (
+				433EC1BA1BB6E8DA004BEC55 /* BassDrum606.wav */,
+				433EC1BB1BB6E8DA004BEC55 /* ClosedHiHat606.wav */,
+				433EC1BC1BB6E8DA004BEC55 /* HiTom606.wav */,
+				433EC1BD1BB6E8DA004BEC55 /* OpenHiHat606.wav */,
+				433EC1BE1BB6E8DA004BEC55 /* SnareDrum606.wav */,
+			);
+			name = 606;
+			sourceTree = "<group>";
+		};
+		433EC1A31BB6E861004BEC55 /* 808 */ = {
+			isa = PBXGroup;
+			children = (
+				433EC1B01BB6E8C3004BEC55 /* BassDrum808.wav */,
+				433EC1B11BB6E8C3004BEC55 /* Clap808.wav */,
+				433EC1B21BB6E8C3004BEC55 /* HiHat808.wav */,
+				433EC1B31BB6E8C3004BEC55 /* RimShot808.wav */,
+				433EC1B41BB6E8C3004BEC55 /* SnareDrum808.wav */,
+			);
+			name = 808;
+			sourceTree = "<group>";
+		};
+		433EC1A41BB6E872004BEC55 /* 909 */ = {
+			isa = PBXGroup;
+			children = (
+				433EC1A61BB6E8AF004BEC55 /* BassDrum909.wav */,
+				433EC1A71BB6E8AF004BEC55 /* Clap909.wav */,
+				433EC1A81BB6E8AF004BEC55 /* HiHat909.wav */,
+				433EC1A91BB6E8AF004BEC55 /* RimShot909.wav */,
+				433EC1AA1BB6E8AF004BEC55 /* SnareDrum909.wav */,
+			);
+			name = 909;
+			sourceTree = "<group>";
+		};
+		433EC1A51BB6E87A004BEC55 /* Cr78 */ = {
+			isa = PBXGroup;
+			children = (
+				433EC1C41BB6E8EF004BEC55 /* BassDrum78.wav */,
+				433EC1C51BB6E8EF004BEC55 /* Guiro78.wav */,
+				433EC1C61BB6E8EF004BEC55 /* HiHat78.wav */,
+				433EC1C71BB6E8EF004BEC55 /* RimShot78.wav */,
+				433EC1C81BB6E8EF004BEC55 /* SnareDrum78.wav */,
+			);
+			name = Cr78;
+			sourceTree = "<group>";
+		};
+		43702ED61BB7DA9D00ACE55F /* Bass */ = {
+			isa = PBXGroup;
+			children = (
+				4363582D1BBDDFB500918021 /* Bass.wav */,
+			);
+			name = Bass;
+			sourceTree = "<group>";
+		};
+		43A3A2511BC53F7600FDF98A /* JPGs */ = {
+			isa = PBXGroup;
+			children = (
+				43A3A2521BC53F8D00FDF98A /* Volume.jpg */,
+				43A3A2531BC53F8D00FDF98A /* Panning.jpg */,
+				43A3A2541BC53F8D00FDF98A /* Reverb.jpg */,
+				43A3A2551BC53F8D00FDF98A /* Distorsion.jpg */,
+				43A3A2561BC53F8D00FDF98A /* Delay.jpg */,
+			);
+			name = JPGs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,8 +366,34 @@
 			buildActionMask = 2147483647;
 			files = (
 				433EC17E1BB6E7F5004BEC55 /* LaunchScreen.storyboard in Resources */,
+				43A3A25B1BC53F8D00FDF98A /* Delay.jpg in Resources */,
+				433EC1C31BB6E8DA004BEC55 /* SnareDrum606.wav in Resources */,
+				433EC1CB1BB6E8EF004BEC55 /* HiHat78.wav in Resources */,
 				433EC17B1BB6E7F5004BEC55 /* Assets.xcassets in Resources */,
+				433EC1CD1BB6E8EF004BEC55 /* SnareDrum78.wav in Resources */,
+				433EC1BF1BB6E8DA004BEC55 /* BassDrum606.wav in Resources */,
+				433EC1AC1BB6E8AF004BEC55 /* Clap909.wav in Resources */,
+				433EC1C21BB6E8DA004BEC55 /* OpenHiHat606.wav in Resources */,
+				433EC1C91BB6E8EF004BEC55 /* BassDrum78.wav in Resources */,
+				433EC1AB1BB6E8AF004BEC55 /* BassDrum909.wav in Resources */,
+				433EC1C11BB6E8DA004BEC55 /* HiTom606.wav in Resources */,
+				4363582E1BBDDFB500918021 /* Bass.wav in Resources */,
+				433EC1AD1BB6E8AF004BEC55 /* HiHat909.wav in Resources */,
+				43A3A2571BC53F8D00FDF98A /* Volume.jpg in Resources */,
+				433EC1B91BB6E8C3004BEC55 /* SnareDrum808.wav in Resources */,
+				433EC1AE1BB6E8AF004BEC55 /* RimShot909.wav in Resources */,
+				433EC1CA1BB6E8EF004BEC55 /* Guiro78.wav in Resources */,
+				433EC1CC1BB6E8EF004BEC55 /* RimShot78.wav in Resources */,
 				433EC1761BB6E7F5004BEC55 /* Main.storyboard in Resources */,
+				433EC1B61BB6E8C3004BEC55 /* Clap808.wav in Resources */,
+				433EC1C01BB6E8DA004BEC55 /* ClosedHiHat606.wav in Resources */,
+				433EC1B81BB6E8C3004BEC55 /* RimShot808.wav in Resources */,
+				433EC1B71BB6E8C3004BEC55 /* HiHat808.wav in Resources */,
+				433EC1B51BB6E8C3004BEC55 /* BassDrum808.wav in Resources */,
+				433EC1AF1BB6E8AF004BEC55 /* SnareDrum909.wav in Resources */,
+				43A3A2591BC53F8D00FDF98A /* Reverb.jpg in Resources */,
+				43A3A2581BC53F8D00FDF98A /* Panning.jpg in Resources */,
+				43A3A25A1BC53F8D00FDF98A /* Distorsion.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -485,6 +645,7 @@
 				433EC19A1BB6E7F5004BEC55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		433EC19B1BB6E7F5004BEC55 /* Build configuration list for PBXNativeTarget "KaBoomTests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +654,7 @@
 				433EC19D1BB6E7F5004BEC55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		433EC19E1BB6E7F5004BEC55 /* Build configuration list for PBXNativeTarget "KaBoomUITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +663,7 @@
 				433EC1A01BB6E7F5004BEC55 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
